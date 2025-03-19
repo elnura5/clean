@@ -58,7 +58,6 @@ a {
 
 h1 {
   font-size: 40px;
-
 }
 
 .overlay {
@@ -83,19 +82,15 @@ p {
   border: 20px;
   padding: 10px;
   margin: 2px;
-  background-color: #0085A1;
+  background-color: #0085a1;
   position: absolute;
-  left: 1000px;
-
 }
 
 .sosial_sebekeler {
   display: flex;
   justify-content: center;
   gap: 20px;
-
 }
-
 
 @media only screen and (max-width: 900px) {
   .blog_container {
